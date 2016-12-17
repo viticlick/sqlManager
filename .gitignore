@@ -1,0 +1,5 @@
+#Git ignore
+# Mark the files and folder to be ignored
+
+#bower dependenciea folder
+front/js/libs/
